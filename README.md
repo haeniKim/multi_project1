@@ -48,7 +48,8 @@
 
 ---
 
-> 📎**태블로 링크:** [https://public.tableau.com/app/profile/haenikim/viz/melon_chart/1?publish=yes](https://public.tableau.com/app/profile/haenikim/viz/melon_chart/1?publish=yes)
+> 📎**태블로 링크:** [https://public.tableau.com/app/profile/haenikim/viz/melon_chart/1?publish=yes](https://public.tableau.com/app/profile/haenikim/viz/melon_chart/1?publish=yes)  
+> 
 > 📎**프로젝트 결과물:** https://silly-search-705.notion.site/1-2-313d0184675d44148d0f7c4f64eef98f
 
  
